@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Videoteca</string>
+    <string name="listar_filmes">Listar Filmes</string>
+    <string name="adicionar_filme">Adicionar Filme</string>
+    <string name="title_label">Title</string>
+    <string name="release_field">Release</string>
+    <string name="register_button">Register</string>
+</resources>
